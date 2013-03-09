@@ -4,6 +4,7 @@ div.number {
   margin-top: 10px;
   border: 1px solid black;
   padding: 25px 25px 25px 5px;
+  overflow-y: scroll;
 }
 div#one {
   background: rgb(202, 86, 86);
