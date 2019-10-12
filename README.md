@@ -1,4 +1,6 @@
 cuny-software-engineering
 =========================
 
-Notes and presentation from the day I substitute taught a Software Engineering Class for City University of New York (CUNY)
+Notes and presentation from substitue teaching at CUNY.
+
+**Class:** Software Engineering class for City University of New York (CUNY)
